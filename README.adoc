@@ -1,0 +1,19 @@
+= Winrad
+packageAuthors
+1.6.1.0
+
+== Summary 
+Winrad is a free amateur radio program conceived by Jeffrey Pawlan, WA6KBL, that implements many Software Defined Radio (SDR) functions which are needed for weaksignal reception including EME, troposcatter, cloudscatter, and very long distance microwave terrestrial contacts. It also works well for general HF reception.
+
+You can visit the project page: http://www.winrad.org/.
+
+== Description 
+Winrad is a free amateur radio program conceived by Jeffrey Pawlan, WA6KBL, that implements many Software Defined Radio (SDR) functions which are needed for weaksignal reception including EME, troposcatter, cloudscatter, and very long distance microwave terrestrial contacts. It also works well for general HF reception.
+
+== Credits
+=== People
+*Winrad* is developped by Chevdor (https://github.com/chevdor).
+
+=== References
+This package is a https://chocolatey.org/[chocolatey] package
+and it has been generated using http://yeoman.io/[Yeoman].

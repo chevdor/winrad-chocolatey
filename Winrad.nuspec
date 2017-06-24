@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Winrad</id>
+    <title>Winrad</title>
+    <version>1.6.1.6</version>
+    <authors>Jeffrey Pawlan (WA6KBL)</authors>
+    <owners>Chevdor</owners>
+    <summary>Winrad is a free amateur radio program conceived by Jeffrey Pawlan, WA6KBL, that implements many Software Defined Radio (SDR) functions which are needed for weaksignal reception including EME, troposcatter, cloudscatter, and very long distance microwave terrestrial contacts. It also works well for general HF reception.</summary>
+    <description>Winrad is a free amateur radio program conceived by Jeffrey Pawlan, WA6KBL, that implements many Software Defined Radio (SDR) functions which are needed for weaksignal reception including EME, troposcatter, cloudscatter, and very long distance microwave terrestrial contacts. It also works well for general HF reception.</description>
+    <projectUrl>http://www.winrad.org/</projectUrl>
+    <tags>HamRadio</tags>
+    <copyright>(C)2015 - Chevdor</copyright>
+    <licenseUrl>http://www.winrad.org/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/__NAME__/__NAME__.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
